@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myModules</string>
+    <string name="module1">C203 - Web Appln Development in php</string>
+    <string name="module2">C206 - Software Development Process</string>
+    <string name="module3">C218 - UI/UX Design for Apps</string>
+    <string name="module4">C235 - IT Security And Management</string>
+    <string name="module5">C346 - Mobile App Development</string>
+    <string name="back">Return</string>
+    <string name="rp">Republic Polytechnic</string>
+    <string name="description">DDDD Year 2 Semester 1 Module List</string>
+
+</resources>
